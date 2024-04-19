@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "smartWithSelection",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
